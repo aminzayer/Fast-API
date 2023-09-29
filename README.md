@@ -42,9 +42,9 @@ For more detailed instructions, check out our [official documentation](https://f
 
 This repository includes several related projects and tools that can enhance your Fast API experience. Here's an overview:
 
-- [fastapi-docker](https://github.com/yourorg/fastapi-docker): Docker configurations for deploying Fast API apps.
-- [fastapi-auth](https://github.com/yourorg/fastapi-auth): Authentication and authorization tools for Fast API.
-- [fastapi-utils](https://github.com/yourorg/fastapi-utils): Utilities and extensions to make Fast API even more powerful.
+- [fastapi-docker](https://github.com/aminzayer/fastapi-docker): Docker configurations for deploying Fast API apps.
+- [fastapi-auth](https://github.com/aminzayer/fastapi-auth): Authentication and authorization tools for Fast API.
+- [fastapi-utils](https://github.com/aminzayer/fastapi-utils): Utilities and extensions to make Fast API even more powerful.
 
 ## Contributing
 
