@@ -1,0 +1,6 @@
+# POST http://127.0.0.1:8000/todos/?todo=todo HTTP/1.1
+# content-type: application/json
+
+# {"todo":"Buy groceries"}
+
+# GET http://127.0.0.1:8000/todos/?todo=todo HTTP/1.1
